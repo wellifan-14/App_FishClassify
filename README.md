@@ -12,7 +12,7 @@ Berikut beberapa tahapan yang dilakukan:
 2. Membangun Apk FishClassify: [Link 2](https://drive.google.com/file/d/1K3OG4Loc6bphGK7D39rqRWE_n4yRR-_C/view?usp=drive_link)
 
 # Hasil
-Apk hasil : [Link 3](https://drive.google.com/file/d/1PWgfxKbobVh-rfezDfYJqrMFo503Aq5J/view?usp=drive_link)
+Apk hasil : [Link 3](https://drive.google.com/file/d/1VlWOf9PpGrSQQIuNs2_LUGswM2HI-GW6/view?usp=drive_link)
 
  Screenshot Hasil Apk:
 
