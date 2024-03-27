@@ -9,7 +9,7 @@ Model CNN hasil dari projek sebelumnya: [Model Klasifikasi CNN](https://drive.go
 
 Berikut beberapa tahapan yang dilakukan:
 1. Mengkonversi model dalam format .h5 (HDF5) menjadi format .tflite (TensorFlow Lite): [Link 1](https://drive.google.com/file/d/1cH1t6s_iiZ7o318MauUWxLudSiMimNb6/view?usp=drive_link)
-2. Membangun Apk FishClassify: [Link 2](https://drive.google.com/drive/folders/1-7vVZr6yc-btgsdsL8s9_AO127h1YS5h?usp=drive_link)
+2. Membangun Apk FishClassify: [Link 2](https://drive.google.com/file/d/1K3OG4Loc6bphGK7D39rqRWE_n4yRR-_C/view?usp=drive_link)
 
 # Hasil
 Apk hasil : [Link 3](https://drive.google.com/file/d/1PWgfxKbobVh-rfezDfYJqrMFo503Aq5J/view?usp=drive_link)
