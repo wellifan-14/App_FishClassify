@@ -9,11 +9,11 @@ Model CNN hasil dari projek sebelumnya: [Model Klasifikasi CNN](https://drive.go
 
 Berikut beberapa tahapan yang dilakukan:
 1. Mengkonversi model dalam format .h5 (HDF5) menjadi format .tflite (TensorFlow Lite): [Link 1](https://drive.google.com/file/d/1cH1t6s_iiZ7o318MauUWxLudSiMimNb6/view?usp=drive_link)
-2. Membangun Apk_FishClassify: [Link 2](https://drive.google.com/drive/folders/1-7vVZr6yc-btgsdsL8s9_AO127h1YS5h?usp=drive_link)
+2. Membangun App_FishClassify: [Link 2](https://drive.google.com/drive/folders/1-7vVZr6yc-btgsdsL8s9_AO127h1YS5h?usp=drive_link)
 
 # Hasil
-File Apk_FishClassify Hasil: [Link 3](https://drive.google.com/file/d/1glZVLBwRDRpGcVYGKkXi8pn6gD2Hw-Rl/view?usp=drive_link)
+File App_FishClassify Hasil: [Link 3](https://drive.google.com/file/d/1glZVLBwRDRpGcVYGKkXi8pn6gD2Hw-Rl/view?usp=drive_link)
 
- Screenshot Hasil Apk_FishClassify:
+ Screenshot Hasil App_FishClassify:
 
  <kbd><img src="https://github.com/wellifan-14/App_FishClassify/blob/4a78a44e894310c98cd1abe4997350bacacea3c7/Screenshot_20240327-142201.jpg" width="240" height="427"></kbd>  <kbd><img src="https://github.com/wellifan-14/App_FishClassify/blob/4a78a44e894310c98cd1abe4997350bacacea3c7/Screenshot_20240327-142243.jpg" width="240" height="427"></kbd>
